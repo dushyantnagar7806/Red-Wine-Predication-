@@ -5,7 +5,17 @@
 - [Business Understanding](#BusinessUnderstanding)
 - [File Structure](#file-structure)
 - [Installation](#installation)
-
+- [Project Template Creation](#Template)
+- [Project Setup](#setup)
+- [Logging, Exception, and Utility](#log,exc,util)
+- [Project Workflow](#Workflow)
+- [Notebook Expriemnt](#expri)
+- [Components Implementation](#Impli)
+- [Training Pipeline](#TrePip)
+- [Predication Pipeline](#prePip)
+- [User App Implementaion](#Ui)
+- [Dockeriation](#Docker)
+- [Deplotment on AWS](#deploy)
 
 ## Business Understanding
 
